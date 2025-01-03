@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bit by Bit</title>
+    <link>https://viitetrix.github.io/</link>
+    <description>Recent content on Bit by Bit</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 02 Jan 2025 22:49:04 +0800</lastBuildDate>
+    <atom:link href="https://viitetrix.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>双鱼</title>
+      <link>https://viitetrix.github.io/posts/%E5%8F%8C%E9%B1%BC/</link>
+      <pubDate>Thu, 02 Jan 2025 22:49:04 +0800</pubDate>
+      <guid>https://viitetrix.github.io/posts/%E5%8F%8C%E9%B1%BC/</guid>
+      <description>&lt;h2 id=&#34;视频下载&#34;&gt;视频下载&lt;/h2&gt;
+&lt;h3 id=&#34;youtube&#34;&gt;Youtube&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Tyrrrz/YoutubeDownloader&#34;&gt;Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;x&#34;&gt;X&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://twittervideodownloader.com/&#34;&gt;Twitter Video Downloader - Download twitter videos &amp;amp; GIF Online&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;通用&#34;&gt;通用&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb?hl=zh-CN&amp;amp;utm_source=ext_sidebar&#34;&gt;猫抓&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;外挂字幕下载&#34;&gt;外挂字幕下载&lt;/h2&gt;
+&lt;h3 id=&#34;youtube-1&#34;&gt;Youtube&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://downsub.com/&#34;&gt;从Youtube，Viki，Viu，Vlive等下载字幕！ - DownSub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://getsubs.cc/zh&#34;&gt;适用于 Tiktok、Youtube、Dailymotion 和 Facebook 的字幕下载器 - GetSubs.cc&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;转录字幕&#34;&gt;转录字幕&lt;/h2&gt;
+&lt;h3 id=&#34;激活虚拟环境&#34;&gt;激活虚拟环境&lt;/h3&gt;
+&lt;p&gt;打开 &lt;code&gt;Anaconda Prompt&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;conda activate trans
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;cd trans
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;whisper&#34;&gt;Whisper&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;whisper 0.mp4 --word_timestamps True -o 0 --initial_prompt &amp;quot;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;默认 Turbo 模型， &lt;code&gt;--model MODEL&lt;/code&gt; 指定模型&lt;/li&gt;
+&lt;li&gt;默认 srt、txt、json 等全格式输出&lt;/li&gt;
+&lt;li&gt;默认 CUDA&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--word_timestamps True&lt;/code&gt; 开启字级时间戳&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--output_dir OUTPUT_DIR, -o OUTPUT_DIR&lt;/code&gt; 指定输出文件保存的目录。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--initial_prompt INITIAL_PROMPT&lt;/code&gt; 指定第一段的初始提示文本，帮助模型生成更符合语境的结果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;断句&#34;&gt;断句&lt;/h2&gt;
+&lt;h3 id=&#34;spacy&#34;&gt;Spacy&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;python SpacyWhisper.py 0/0.json &amp;gt;0SUB/0E.srt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;字幕翻译生成&#34;&gt;字幕翻译&amp;amp;生成&lt;/h2&gt;
+&lt;h3 id=&#34;首次运行导入-api-依赖&#34;&gt;首次运行导入 API 依赖&lt;/h3&gt;
+&lt;h4 id=&#34;gemini&#34;&gt;Gemini&lt;/h4&gt;
+&lt;p&gt;魔法&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
