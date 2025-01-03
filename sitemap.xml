@@ -2,37 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://viitetrix.github.io/categories/1/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/categories/2/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
     <loc>https://viitetrix.github.io/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/tags/tag-1/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/tags/tag-2/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/tags/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/categories/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/posts/%E5%8F%8C%E9%B1%BC/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/posts/</loc>
-    <lastmod>2025-01-02T22:49:04+08:00</lastmod>
   </url><url>
     <loc>https://viitetrix.github.io/series/</loc>
+  </url><url>
+    <loc>https://viitetrix.github.io/tags/</loc>
+  </url><url>
+    <loc>https://viitetrix.github.io/categories/</loc>
   </url><url>
     <loc>https://viitetrix.github.io/archives/</loc>
   </url><url>
     <loc>https://viitetrix.github.io/search/</loc>
+  </url><url>
+    <loc>https://viitetrix.github.io/posts/</loc>
   </url>
 </urlset>
