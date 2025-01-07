@@ -6,22 +6,8 @@
     <description>Recent content in 标签 on Bit by Bit</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Jan 2025 21:04:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 20:21:24 +0800</lastBuildDate>
     <atom:link href="https://viitetrix.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tag 1</title>
-      <link>https://viitetrix.github.io/blog/tags/tag-1/</link>
-      <pubDate>Tue, 07 Jan 2025 21:04:40 +0800</pubDate>
-      <guid>https://viitetrix.github.io/blog/tags/tag-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag 2</title>
-      <link>https://viitetrix.github.io/blog/tags/tag-2/</link>
-      <pubDate>Tue, 07 Jan 2025 21:04:40 +0800</pubDate>
-      <guid>https://viitetrix.github.io/blog/tags/tag-2/</guid>
-      <description></description>
-    </item>
     <item>
       <title>LLM</title>
       <link>https://viitetrix.github.io/blog/tags/llm/</link>
