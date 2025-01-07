@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/posts/%E8%AF%91%E6%96%87-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%A0-transformer-%E8%80%8C%E5%AD%98%E5%9C%A8/</loc>
+    <loc>https://viitetrix.github.io/blog/posts/%E8%AF%91%E6%96%87-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%A0-transformer-%E8%80%8C%E5%AD%98%E5%9C%A8/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://viitetrix.github.io/blog/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/llm/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/llm/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/transformer/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/transformer/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://viitetrix.github.io/blog/categories/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://viitetrix.github.io/blog/posts/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/%E8%AF%91%E6%96%87/</loc>
+    <loc>https://viitetrix.github.io/blog/categories/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/%E7%AC%94%E8%AE%B0-chatgpt%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%BC%A9%E5%BD%B1/</loc>
+    <loc>https://viitetrix.github.io/blog/posts/%E7%AC%94%E8%AE%B0-chatgpt%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%BC%A9%E5%BD%B1/</loc>
     <lastmod>2025-01-06T15:07:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://viitetrix.github.io/blog/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-01-06T15:07:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E6%8A%BD%E8%B1%A1%E8%83%BD%E5%8A%9B/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E6%8A%BD%E8%B1%A1%E8%83%BD%E5%8A%9B/</loc>
     <lastmod>2025-01-06T15:07:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E6%A6%82%E7%8E%87/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E6%A6%82%E7%8E%87/</loc>
     <lastmod>2025-01-06T15:07:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E5%B9%BB%E8%A7%89/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E5%B9%BB%E8%A7%89/</loc>
     <lastmod>2025-01-06T15:07:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/%E6%80%9D%E8%80%83-%E4%B9%A6%E7%AB%A5%E8%99%BD%E5%A5%BD%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E6%9B%BF%E4%BD%A0%E8%BF%9B%E4%BA%AC%E8%B5%B6%E8%80%83/</loc>
+    <loc>https://viitetrix.github.io/blog/posts/%E6%80%9D%E8%80%83-%E4%B9%A6%E7%AB%A5%E8%99%BD%E5%A5%BD%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E6%9B%BF%E4%BD%A0%E8%BF%9B%E4%BA%AC%E8%B5%B6%E8%80%83/</loc>
     <lastmod>2025-01-06T09:33:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/ai/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/ai/</loc>
     <lastmod>2025-01-06T09:33:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/ai-%E8%BE%85%E5%8A%A9/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/ai-%E8%BE%85%E5%8A%A9/</loc>
     <lastmod>2025-01-06T09:33:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-01-06T09:33:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/%E6%80%9D%E8%80%83/</loc>
+    <loc>https://viitetrix.github.io/blog/categories/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-01-06T09:33:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/%E8%AF%91%E6%96%87-chatgpt%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%BC%A9%E5%BD%B1/</loc>
+    <loc>https://viitetrix.github.io/blog/posts/%E8%AF%91%E6%96%87-chatgpt%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%A8%A1%E7%B3%8A%E7%BC%A9%E5%BD%B1/</loc>
     <lastmod>2025-01-05T16:48:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/chatgpt/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/chatgpt/</loc>
     <lastmod>2025-01-05T16:48:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9/</loc>
+    <loc>https://viitetrix.github.io/blog/tags/%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9/</loc>
     <lastmod>2025-01-05T16:48:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/series/</loc>
+    <loc>https://viitetrix.github.io/blog/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/archives/</loc>
+    <loc>https://viitetrix.github.io/blog/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/search/</loc>
+    <loc>https://viitetrix.github.io/blog/search/</loc>
   </url>
 </urlset>
