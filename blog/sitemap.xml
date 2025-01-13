@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://viitetrix.github.io/blog/posts/%E8%AF%91%E6%96%87-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%A0-transformer-%E8%80%8C%E5%AD%98%E5%9C%A8/</loc>
-    <lastmod>2025-01-06T20:21:24+08:00</lastmod>
+    <loc>https://viitetrix.github.io/blog/posts/%E8%AF%91%E6%96%87-%E6%96%B0%E9%97%BB%E4%B8%9A%E5%B0%86%E5%A6%82%E4%BD%95%E9%80%82%E5%BA%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/tags/ai/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/categories/ai/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
   </url><url>
     <loc>https://viitetrix.github.io/blog/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/tags/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/categories/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/posts/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/tags/%E5%BD%B1%E5%93%8D/</loc>
+    <lastmod>2025-01-13T11:09:31+08:00</lastmod>
+  </url><url>
+    <loc>https://viitetrix.github.io/blog/posts/%E8%AF%91%E6%96%87-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%A0-transformer-%E8%80%8C%E5%AD%98%E5%9C%A8/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
     <loc>https://viitetrix.github.io/blog/tags/llm/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
     <loc>https://viitetrix.github.io/blog/tags/transformer/</loc>
-    <lastmod>2025-01-06T20:21:24+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/blog/tags/</loc>
-    <lastmod>2025-01-06T20:21:24+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/blog/categories/</loc>
-    <lastmod>2025-01-06T20:21:24+08:00</lastmod>
-  </url><url>
-    <loc>https://viitetrix.github.io/blog/posts/</loc>
     <lastmod>2025-01-06T20:21:24+08:00</lastmod>
   </url><url>
     <loc>https://viitetrix.github.io/blog/categories/%E8%AF%91%E6%96%87/</loc>
